@@ -1,17 +1,4 @@
-## Reading
-
-- Variable hoisting - [https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
-- Control flow and error handling - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
-- Rest parameters and spread syntax [https://javascript.info/rest-parameters-spread](https://javascript.info/rest-parameters-spread)
-- Iteration/Closures - [https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md)
-- Generator functions - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
-
-## Practice
-
-All solutions must be submitted before 7am on Monday.
-
-Please push all solutions to a public GitHub repository. Please use structure similar to:
-
+## Structure
     /
     ..convert_object_to_array.js
     ..average_word_length.js
