@@ -7,7 +7,7 @@
     ..index.html
 
     
-    
+### Tasks    
 -  [x] 1. Change the state to static of the currentObject(state === 'falling') when any of it's blocks is placed on top of another block
 - [x] 2. Create a new falling object if all other objects are static
 
