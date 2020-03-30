@@ -1,6 +1,21 @@
 function validateMe(event) {
   event.preventDefault();
 
+  // Validate each input on the fly using onchange event.
+  document.getElementById('name').addEventListener('change',() => {
+    nameValidator(event)
+  });
+  document.getElementById('email').addEventListener('change',() => { 
+    emailValidator(event)
+  });
+  document.getElementById('phone').addEventListener('change', () => {
+    phoneValidator(event)
+  });
+  document.getElementById('message').addEventListener('change', () => {
+    messageValidator(event)
+  });
+
+  
   // Submit the form, only if it is valid
   emailValidator(event);
   nameValidator(event);
