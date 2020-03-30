@@ -16,5 +16,5 @@ Created By: Andrew Yasynyshyn
        - [x] phone format is correct. Valid formats: "+38032 000 000 00", "+380(32) 000 000 00", "+380(32)-000-000-00", "0380(32) 000 000 00", + any combitaion
        - [x] message is 10 or more characters.
        - [x] message must not iclude bad language: ugly, dumm, stupid, pig, ignorant
-   - [ ] 2) Validate each input on the fly using onchange event.
+   - [x] 2) Validate each input on the fly using onchange event.
    - [x] 3) Define re-usable validators: length, format
